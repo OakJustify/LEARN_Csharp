@@ -1,0 +1,14 @@
+/home/podistrict/Projects/C#/HaloCsharp/bin/Debug/net10.0/HaloCsharp
+/home/podistrict/Projects/C#/HaloCsharp/bin/Debug/net10.0/HaloCsharp.deps.json
+/home/podistrict/Projects/C#/HaloCsharp/bin/Debug/net10.0/HaloCsharp.runtimeconfig.json
+/home/podistrict/Projects/C#/HaloCsharp/bin/Debug/net10.0/HaloCsharp.dll
+/home/podistrict/Projects/C#/HaloCsharp/bin/Debug/net10.0/HaloCsharp.pdb
+/home/podistrict/Projects/C#/HaloCsharp/obj/Debug/net10.0/HaloCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/podistrict/Projects/C#/HaloCsharp/obj/Debug/net10.0/HaloCsharp.AssemblyInfoInputs.cache
+/home/podistrict/Projects/C#/HaloCsharp/obj/Debug/net10.0/HaloCsharp.AssemblyInfo.cs
+/home/podistrict/Projects/C#/HaloCsharp/obj/Debug/net10.0/HaloCsharp.csproj.CoreCompileInputs.cache
+/home/podistrict/Projects/C#/HaloCsharp/obj/Debug/net10.0/HaloCsharp.dll
+/home/podistrict/Projects/C#/HaloCsharp/obj/Debug/net10.0/refint/HaloCsharp.dll
+/home/podistrict/Projects/C#/HaloCsharp/obj/Debug/net10.0/HaloCsharp.pdb
+/home/podistrict/Projects/C#/HaloCsharp/obj/Debug/net10.0/HaloCsharp.genruntimeconfig.cache
+/home/podistrict/Projects/C#/HaloCsharp/obj/Debug/net10.0/ref/HaloCsharp.dll

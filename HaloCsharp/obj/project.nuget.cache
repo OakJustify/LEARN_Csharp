@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9IDQTMw+xb0=",
+  "success": true,
+  "projectFilePath": "/home/podistrict/Projects/C#/HaloCsharp/HaloCsharp.csproj",
+  "expectedPackageFiles": [
+    "/home/podistrict/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
