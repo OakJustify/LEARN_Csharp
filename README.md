@@ -60,7 +60,7 @@ LEARN_C#/
 ### Module 1: C# Fundamentals
 - Introduction to C# and .NET Architecture
 - Variables, Constants, and Data Types
-- Operators and Mathematical Expressions
+- Operators and Mathematical EQxpressions
 - Control Flow (`if-else`, `switch`, `for`, `while`, `foreach`)
 - Functions, Methods, and Parameters
 
