@@ -1,6 +1,6 @@
 # Learn C# Repository
 
-Welcome to the **LEARN_C#** repository! This repository serves as a comprehensive guide and structured resource for learning C# programming and the .NET ecosystem—from fundamental concepts to advanced application development.
+Welcome to the **LEARN_C#** repository! This repository serves as a comprehensive guide and structured resource for learning C# programming and the .NET ecosystem—from fundamental concepts, Exercism exercises, to weekly Object-Oriented Programming (OOP) practicum assignments.
 
 ---
 
@@ -8,13 +8,9 @@ Welcome to the **LEARN_C#** repository! This repository serves as a comprehensiv
 1. [About the Repository](#about-the-repository)
 2. [Prerequisites](#prerequisites)
 3. [Repository Structure](#repository-structure)
-4. [Course Modules](#course-modules)
-   - [Module 1: C# Fundamentals](#module-1-c-fundamentals)
-   - [Module 2: Object-Oriented Programming (OOP)](#module-2-object-oriented-programming-oop)
-   - [Module 3: Data Structures & Collections](#module-3-data-structures--collections)
-   - [Module 4: Advanced C# Concepts](#module-4-advanced-c-concepts)
-   - [Module 5: Asynchronous & Multithreaded Programming](#module-5-asynchronous--multithreaded-programming)
-   - [Module 6: LINQ & Data Access](#module-6-linq--data-access)
+4. [Course & Practice Modules](#course--practice-modules)
+   - [00_Practice: Weekly OOP Practicum](#00_practice-weekly-oop-practicum)
+   - [01_Introduction: Exercism & Basic Concepts](#01_introduction-exercism--basic-concepts)
 5. [Getting Started](#getting-started)
 6. [How to Run the Code](#how-to-run-the-code)
 7. [Contributing](#contributing)
@@ -23,19 +19,19 @@ Welcome to the **LEARN_C#** repository! This repository serves as a comprehensiv
 ---
 
 ## 📖 About the Repository
-This repository contains structured code samples, exercises, study notes, and mini-projects designed to help students, developers, and self-learners master C# effectively through practical implementations.
+This repository contains structured code samples, weekly lab exercises, Exercism track challenges, and study notes designed to master C# and Object-Oriented Programming (OOP) through hands-on implementation.
 
 ---
 
 ## 🛠 Prerequisites
 Before running the code in this repository, ensure you have installed:
 
-- **.NET SDK** (version 8.0 or later recommended): [Download .NET](https://dotnet.microsoft.com/download)
+- **.NET SDK** (version 8.0 / 10.0 or later): [Download .NET](https://dotnet.microsoft.com/download)
 - **Code Editor / IDE**:
-  - [Visual Studio 2022](https://visualstudio.microsoft.com/) (Recommended for Windows)
-  - [Visual Studio Code](https://code.visualstudio.com/) (Cross-platform, with the C# Dev Kit extension)
+  - [Visual Studio Code / VSCodium](https://code.visualstudio.com/) (Cross-platform with C# Dev Kit)
+  - [Visual Studio 2022](https://visualstudio.microsoft.com/)
   - [JetBrains Rider](https://www.jetbrains.com/rider/)
-- **Git**: For repository cloning and version control.
+- **Git**: For version control and repository management.
 
 ---
 
@@ -43,101 +39,92 @@ Before running the code in this repository, ensure you have installed:
 
 ```text
 LEARN_C#/
-├── 01-fundamentals/       # Basic syntax, data types, operators, and control flow
-├── 02-oop/                # Classes, objects, inheritance, polymorphism, abstraction
-├── 03-collections/        # Arrays, Generic Lists, Dictionaries, Queues, Stacks
-├── 04-advanced/           # Delegates, Events, Generics, Exception Handling
-├── 05-async/              # Async/Await, Tasks, and Multithreading
-├── 06-linq/               # Language Integrated Query (LINQ) examples
-├── projects/              # Real-world mini-projects and applications
-└── README.md              # Project documentation
+├── 00_Practice/             # Weekly OOP & C# Practicum Exercises
+│   ├── Week1/               # C# Fundamentals & Basic Syntax
+│   ├── Week2/               # Classes, Objects & Constructors
+│   ├── Week3/               # Inheritance & Class Diagrams
+│   ├── Week4/               # Polymorphism (Overloading & Overriding)
+│   ├── Week5/               # Encapsulation & Data Hiding
+│   ├── Week6/               # Relationships (Association, Aggregation, Composition)
+│   └── Week7/               # Abstract Class, Interface & Class Library
+├── 01_Introduction/         # Exercism practice tracks & introductory exercises
+│   ├── 1_HelloWorld/        # Hello World module
+│   └── 2_BirdWatcher/       # Bird Watcher module (Exercism C# track)
+├── HaloCsharp/              # Initial C# exploration project
+├── HelloWorld/              # Setup verification project
+├── belajarpbo.cs            # C# scratchpad & snippet testing
+└── README.md                # Project documentation
+
 ```
 
 ---
 
-## 📚 Course Modules
+## 📚 Course & Practice Modules
 
-### Module 1: C# Fundamentals
-- Introduction to C# and .NET Architecture
-- Variables, Constants, and Data Types
-- Operators and Mathematical EQxpressions
-- Control Flow (`if-else`, `switch`, `for`, `while`, `foreach`)
-- Functions, Methods, and Parameters
+### 00_Practice: Weekly OOP Practicum
 
-### Module 2: Object-Oriented Programming (OOP)
-- Classes, Objects, and Constructors
-- Encapsulation and Access Modifiers (`public`, `private`, `protected`, `internal`)
-- Inheritance and Polymorphism
-- Abstract Classes vs Interfaces
-- Properties and Indexers
+* **Week 1**: C# Syntax, Input/Output, and Basic Control Flow.
+* **Week 2**: Classes, Objects, Fields, and Constructors.
+* **Week 3**: Inheritance, base Keyword, and UML Class Diagram Mapping.
+* **Week 4**: Polymorphism (Method Overloading & Method Overriding).
+* **Week 5**: Encapsulation, Access Modifiers, and Properties (`get` / `private set`).
+* **Week 6**: Object Relationships (Association, Aggregation, and Composition).
+* **Week 7**: Abstraksi (Abstract Class vs Interface) and Class Library creation.
 
-### Module 3: Data Structures & Collections
-- Arrays (Single and Multidimensional)
-- Generic Collections (`List<T>`, `Dictionary<TKey, TValue>`, `HashSet<T>`)
-- Non-Generic Collections (`ArrayList`, `Hashtable`)
-- Queues (`Queue<T>`) and Stacks (`Stack<T>`)
+### 01_Introduction: Exercism & Basic Concepts
 
-### Module 4: Advanced C# Concepts
-- Exception Handling (`try`, `catch`, `finally`, custom exceptions)
-- Generics (Generic Classes and Methods)
-- Delegates, Anonymous Methods, and Lambda Expressions
-- Events and Event Handling Patterns
-- Extension Methods and Custom Attributes
-
-### Module 5: Asynchronous & Multithreaded Programming
-- Understanding Threads vs Tasks
-- The `async` and `await` keywords
-- Task Parallel Library (TPL)
-- Exception Handling in Asynchronous Code
-
-### Module 6: LINQ & Data Access
-- LINQ Query Syntax vs Method Syntax
-- Filtering, Sorting, Grouping, and Aggregating Data
-- Joining Datasets with LINQ
-- Basic Introduction to Entity Framework Core
+* **1_HelloWorld**: Basic C# console output and workspace verification.
+* **2_BirdWatcher**: Exercism exercise focusing on Arrays, Loops, and Iteration patterns.
 
 ---
 
 ## 🚀 Getting Started
 
 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/LEARN_C.git
-   cd LEARN_C
-   ```
+```bash
+git clone https://github.com/OakJustify/LEARN_Csharp.git
+cd LEARN_Csharp
+
+```
+
 
 2. **Verify .NET Installation**
-   ```bash
-   dotnet --version
-   ```
+```bash
+dotnet --version
+
+```
+
+
 
 ---
 
 ## 💻 How to Run the Code
 
-To run any module or exercise:
+To run any specific practice module or week:
 
-1. Navigate to the desired folder:
-   ```bash
-   cd 01-fundamentals
-   ```
+1. Navigate to the desired project directory:
+```bash
+cd 00_Practice/Week3
+
+```
+
+
 2. Build and run the project using the .NET CLI:
-   ```bash
-   dotnet run
-   ```
+```bash
+dotnet run
+
+```
+
+
 
 ---
 
 ## 🤝 Contributing
-Contributions are always welcome! If you find bugs, want to add new exercises, or improve explanations:
 
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/NewTopic`).
-3. Commit your changes (`git commit -m 'Add new topic on Delegates'`).
-4. Push to the branch (`git push origin feature/NewTopic`).
-5. Open a Pull Request.
+Contributions, suggestions, and corrections are welcome! Feel free to open an issue or submit a pull request if you find any bugs or want to add new practice exercises.
 
 ---
 
 ## 📜 License
-This repository is open source and available under the [MIT License](LICENSE).
+
+This repository is open source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
