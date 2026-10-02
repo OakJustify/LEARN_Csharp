@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "olNXeH7ld/M=",
+  "success": true,
+  "projectFilePath": "/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/pboW7/pboW7.csproj",
+  "expectedPackageFiles": [
+    "/home/podistrict/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

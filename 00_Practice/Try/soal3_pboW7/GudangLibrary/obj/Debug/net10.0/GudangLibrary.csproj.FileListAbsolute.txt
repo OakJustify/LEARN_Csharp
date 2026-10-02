@@ -1,0 +1,12 @@
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/soal3_pboW7/GudangLibrary/bin/Debug/net10.0/GudangLibrary.deps.json
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/soal3_pboW7/GudangLibrary/bin/Debug/net10.0/GudangLibrary.dll
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/soal3_pboW7/GudangLibrary/bin/Debug/net10.0/GudangLibrary.pdb
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/soal3_pboW7/GudangLibrary/obj/Debug/net10.0/GudangLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/soal3_pboW7/GudangLibrary/obj/Debug/net10.0/GudangLibrary.AssemblyInfoInputs.cache
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/soal3_pboW7/GudangLibrary/obj/Debug/net10.0/GudangLibrary.AssemblyInfo.cs
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/soal3_pboW7/GudangLibrary/obj/Debug/net10.0/GudangLibrary.csproj.CoreCompileInputs.cache
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/soal3_pboW7/GudangLibrary/obj/Debug/net10.0/GudangLibrary.sourcelink.json
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/soal3_pboW7/GudangLibrary/obj/Debug/net10.0/GudangLibrary.dll
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/soal3_pboW7/GudangLibrary/obj/Debug/net10.0/refint/GudangLibrary.dll
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/soal3_pboW7/GudangLibrary/obj/Debug/net10.0/GudangLibrary.pdb
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/soal3_pboW7/GudangLibrary/obj/Debug/net10.0/ref/GudangLibrary.dll

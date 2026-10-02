@@ -1,0 +1,15 @@
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/pboW7/obj/Debug/net10.0/pboW7.GeneratedMSBuildEditorConfig.editorconfig
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/pboW7/obj/Debug/net10.0/pboW7.AssemblyInfoInputs.cache
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/pboW7/obj/Debug/net10.0/pboW7.AssemblyInfo.cs
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/pboW7/obj/Debug/net10.0/pboW7.csproj.CoreCompileInputs.cache
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/pboW7/obj/Debug/net10.0/pboW7.sourcelink.json
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/pboW7/bin/Debug/net10.0/pboW7
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/pboW7/bin/Debug/net10.0/pboW7.deps.json
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/pboW7/bin/Debug/net10.0/pboW7.runtimeconfig.json
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/pboW7/bin/Debug/net10.0/pboW7.dll
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/pboW7/bin/Debug/net10.0/pboW7.pdb
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/pboW7/obj/Debug/net10.0/pboW7.dll
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/pboW7/obj/Debug/net10.0/refint/pboW7.dll
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/pboW7/obj/Debug/net10.0/pboW7.pdb
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/pboW7/obj/Debug/net10.0/pboW7.genruntimeconfig.cache
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Try/pboW7/obj/Debug/net10.0/ref/pboW7.dll
