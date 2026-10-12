@@ -1,0 +1,15 @@
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Week8/bin/Debug/net10.0/Week8
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Week8/bin/Debug/net10.0/Week8.deps.json
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Week8/bin/Debug/net10.0/Week8.runtimeconfig.json
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Week8/bin/Debug/net10.0/Week8.dll
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Week8/bin/Debug/net10.0/Week8.pdb
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Week8/obj/Debug/net10.0/Week8.GeneratedMSBuildEditorConfig.editorconfig
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Week8/obj/Debug/net10.0/Week8.AssemblyInfoInputs.cache
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Week8/obj/Debug/net10.0/Week8.AssemblyInfo.cs
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Week8/obj/Debug/net10.0/Week8.csproj.CoreCompileInputs.cache
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Week8/obj/Debug/net10.0/Week8.sourcelink.json
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Week8/obj/Debug/net10.0/Week8.dll
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Week8/obj/Debug/net10.0/refint/Week8.dll
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Week8/obj/Debug/net10.0/Week8.pdb
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Week8/obj/Debug/net10.0/Week8.genruntimeconfig.cache
+/home/podistrict/Projects/A PROGRAMMING LANGUAGE/C#/00_Practice/Week8/obj/Debug/net10.0/ref/Week8.dll
